@@ -1,0 +1,1 @@
+The primary objective of this project is to accurately classify physical activities using data collected from wearable sensors. By leveraging machine learning techniques, I aim to distinguish between activities such as walking, running, and sitting based on accelerometer and gyroscope readings.
